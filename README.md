@@ -1,4 +1,5 @@
 Łukasz Drążyk
+
 IT Professional | Corporate IT Analyst | Offensive Security Enthusiast
 
 IT professional with 8+ years of experience in international enterprise environments.
