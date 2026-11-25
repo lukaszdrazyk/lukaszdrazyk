@@ -19,14 +19,16 @@ Currently working through the TryHackMe Jr Penetration Tester path, focusing on 
 
 **Next milestone:** eJPT certification.
 
-## Technologies
+## Technologies I'm Learning
 
-| Systems | Networking | Security Tools | Scripting |
-|---|---|---|---|
-| Linux | TCP/IP | Nmap | Python |
-| Windows | DNS | Burp Suite | Bash |
-| Microsoft Entra ID | HTTP/HTTPS | Metasploit | PowerShell |
-| | SMB | Wireshark | Git |
+| Systems | | Networking |  | Security Tools |  | Scripting | |
+|---|---:|---|---:|---|---:|---|---:|
+| Linux | ★★☆☆☆ | TCP/IP | ★★★☆☆ | Nmap | ★☆☆☆☆ | Bash | ★★☆☆☆ |
+| Windows | ★★★★☆ | DNS | ★★★☆☆ | Burp Suite | ★☆☆☆☆ | Python | ★★☆☆☆ |
+|  |  | HTTP/HTTPS | ★★★☆☆ | Metasploit | ★☆☆☆☆ | PowerShell | ★☆☆☆☆ |
+|  |  | SMB | ★★☆☆☆ | Wireshark | ★☆☆☆☆ | Git | ★★☆☆☆ |
+
+My learning notes and projects: [pentesting-journey](https://github.com/lukaszdrazyk/pentesting-journey)
 
 ## Goal
 
