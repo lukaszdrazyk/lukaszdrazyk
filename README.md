@@ -11,7 +11,6 @@ Currently building hands-on offensive security skills with the goal of moving in
 - IT operations and application delivery
 - Business and technical analysis
 - Requirements and UAT
-- Microsoft Entra ID, SSO and access management
 - Vendor, risk and change management
 
 ## Offensive Security
