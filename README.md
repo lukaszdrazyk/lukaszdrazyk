@@ -2,41 +2,21 @@
 
 ## IT Professional | Corporate IT Analyst | Offensive Security Enthusiast
 
-IT professional with 8+ years of experience in international enterprise environments.
+IT professional with 8+ years of enterprise IT experience across operations, application delivery, technical analysis, testing, and identity and access management.
 
-My background combines IT operations and infrastructure support with application delivery, system implementations, business and technical analysis, testing, identity and access management, and coordination across business, technical teams and vendors.
-
-Currently developing hands-on offensive security skills with the goal of transitioning into penetration testing.
+Currently building hands-on offensive security skills with the goal of moving into penetration testing.
 
 ## Professional Background
 
-- Enterprise IT operations and infrastructure support
-- Application and system delivery
+- IT operations and application delivery
 - Business and technical analysis
-- Requirements analysis and UAT
-- Identity and access management
-- Microsoft Entra ID and SSO
-- Vendor and stakeholder coordination
-- Risk, dependency and change management
+- Requirements and UAT
+- Microsoft Entra ID, SSO and access management
+- Vendor, risk and change management
 
-## Offensive Security Development
+## Offensive Security
 
-Currently building practical skills in:
-
-- Penetration testing methodology
-- Network reconnaissance and enumeration
-- Nmap
-- Web application security
-- Burp Suite
-- Vulnerability assessment
-- Metasploit and exploitation
-- Linux
-- TCP/IP and networking
-- Python and Bash
-
-## Current Development
-
-Currently completing the TryHackMe Jr Penetration Tester learning path and developing hands-on experience through security labs and a personal cybersecurity environment.
+Currently working through the TryHackMe Jr Penetration Tester path, focusing on network and web security, enumeration, vulnerability assessment and exploitation.
 
 **Next milestone:** eJPT certification.
 
@@ -51,4 +31,4 @@ Currently completing the TryHackMe Jr Penetration Tester learning path and devel
 
 ## Goal
 
-Combining my enterprise IT experience with practical offensive security skills to transition into a professional penetration testing role.
+Build on my enterprise IT experience and move into professional penetration testing.
